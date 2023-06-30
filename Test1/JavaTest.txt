@@ -1,0 +1,109 @@
+Java Answer 
+1)	Java: Java in the High-level Object-Oriented Programming language which is used to build applications.
+Javac: Javac is the known as java compiler it is used to convert the High-level language to the byte code. Once byte code is generated that can run in any system having JVM.
+
+2)	JDK:  JDK is the Java Development Kit it which all required libraries are present.
+JRE: JRE is the Java Run time Environment which gives interface to write the java program.
+JVM: JVM is the Java virtual machine it responsible to run the java program.
+
+3)	Limitations of array:
+All elements of array should be of same datatype.
+Array elements can’t modify.
+
+4)	Class: Class is the outline or the blueprint of the program. In which objects, subclasses, main function are present in it.
+
+Object: Object is the real-world instance. 
+
+Signature of class:
+
+class ClassName{
+	public static void main(String[] args){
+		Body of the program.
+	}	
+} 
+
+5)	Array: Array is a collection element having same datatype.
+
+6)	.java file: .java file basically a file which is used to write a java program and is human readable.
+
+.class: .class file is a file we will get when we will compile the .java file. Which is readable to JVM not by humans.
+
+7)	Byte[] data = {12, 34 9, 0, -62, 88}  	=     5.
+
+8)	Method 
+static void methodName() {
+} 
+Static: access specifier
+Void: it is a return type.
+methodName: it is the name of the method which starts with small letter.
+9)	Java: Java in the High-level Object-Oriented Programming language which is used to build applications.
+
+10)	Variable: Variable is the reference to the memory it which we can store data.
+Variable types:
+
+11)	class variable: It is a non-Primitive.
+
+12)	Data type: datatype define which type of the data should be store in the variable.
+Types of datatypes:
+
+Primitive datatype: these are the datatype which are have the fixed memory is allocated to them.
+There are 8 primitive datatypes
+1.	byte
+2.	short
+3.	int
+4.	long 
+5.	float
+6.	double
+7.	boolien 
+8.	Char
+Non- Primitive datatype: these are the datatype which are not have the fixed memory is allocated to them we can change according to us.
+1.	String
+2. Anything
+
+13)	Java features:
+1.	It is an Object-Oriented programming language.
+2.	WORA: it’s supposing write once run any were.
+3.	Used to build a small to big applications. (Web and android)
+4.	When java code is compiled the byte code is generated.
+5.	It gives High performance.
+
+
+14)	Array: Array is a collection element having same datatype.
+Types of array: 
+Single dimension array: single dimension used to store the ‘n’ number of elements having a same datatype.			
+			Eg: Arr[n];
+Two-dimension array: Two dimension used to store the ‘n x m’ number of elements having a same datatype. 			
+			Eg: Arr[n][m];
+
+15)	Array index out of bound exception:
+It is an exception when we give a specific length of an array. And try to access the array element by giving the array index value more the specified length of an array the we will get Array index out of bound exception.
+
+Eg : int arr[2] = {1,2,3};
+System.out.println (arr[6]); // we will get ‘Array index out of bound exception’.
+
+16)	 System.out.println(): 
+	It a statement which is use to print message in console.
+System: Static variable.
+Out: Static.
+Println: Static method.
+
+17)	Double equal: it is used to check weather the to variable are pointing to same memory location or not. It returns true if there are pointing to same location otherwise fail.
+
+18)	Dot operator: It is used for access the method from the class, to access the variable from the libraries.
+		Eg: ClassName.method();
+
+19)	Base class of all the classes: The class which is having main method is known as Base class of all the classes.
+
+20)	Java keywords:
+1.	Public
+2.	Static
+3.	Class
+4.	void
+5.	int 
+6.	float
+7.	double
+8.	long
+9.	if 
+10.	else
+
+	
