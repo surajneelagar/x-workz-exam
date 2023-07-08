@@ -1,0 +1,6 @@
+4)  The main method is declared static so that JVM can call it without creating 
+    an instance of the class containing the main method.
+
+8)  this - The this keyword can be used to refer current class instance variable.
+    this() - is used to call one constructor from the other of the same class.    
+
